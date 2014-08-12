@@ -1,3 +1,9 @@
 name: TerraFirma
 main: com.github.failvictim.TerraFirma.TerraFirma
 version: 0.0.1
+commands:
+  TerraFirma:
+    description: Use the TerraFirma commands
+    usage: TerraFirma [command]
+    permission:
+    permission-message: You do not have the correct permission
